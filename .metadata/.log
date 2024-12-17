@@ -1105,3 +1105,6 @@ org.eclipse.jgit.errors.TransportException: https://github.com/MigueV10/java--62
 	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
 	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:204)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+
+!ENTRY org.eclipse.egit.ui 4 0 2024-12-16 16:40:24.111
+!MESSAGE Can't connect to any repository: 
